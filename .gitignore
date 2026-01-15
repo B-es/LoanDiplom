@@ -1,2 +1,4 @@
 notebooks/database
 .ipynb_checkpoints
+notebooks/models
+data/*
